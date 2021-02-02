@@ -46,7 +46,6 @@ Mēs neesam šeit, lai visu saprastu.
     * Item C 3
     
     
-###Tables
                     
 Pirmais  | Otrias
 ------------- | -------------
@@ -58,4 +57,4 @@ Trīs  | Četri
 
 > Blockquotes :star:
 
-###End
+
