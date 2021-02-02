@@ -25,7 +25,7 @@ Mēs neesam šeit, lai visu saprastu.
 ```
 
 ![](https://www.pressgazette.co.uk/wp-content/uploads/2020/11/shutterstock.jpg)
-> Follow your dreams.
+> Seko saviem sapņiem!
 
 ####Unordered list (-)
 
@@ -48,10 +48,10 @@ Mēs neesam šeit, lai visu saprastu.
     
 ###Tables
                     
-First Header  | Second Header
+Pirmais  | Otrias
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell 
+Viens  |Divi
+Trīs  | Četri
 
 ——————————————————————————————
 ###Emoji mixed :smiley:
