@@ -3,11 +3,11 @@ pirmais patstavigais darbs
 
 
 
-> Blockquotes
+> Citāts
 
 Mēs neesam šeit, lai visu saprastu.
                     
-> "Blockquotes Blockquotes", [Link](https://www.fenikssfun.com/pardomam/35-jegpilni-jura-rubena-citati-7402)。
+> "Citāts", [Link](https://www.fenikssfun.com/pardomam/35-jegpilni-jura-rubena-citati-7402)。
 
 ####HTML kods
 
