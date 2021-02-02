@@ -54,8 +54,8 @@ Trīs  | Četri
 
 —————————————————————————————
 
-###Emoji mixed :smiley:
+###Emoji   :smiley:
 
-> Blockquotes :star:
+>  :star:
 
 
